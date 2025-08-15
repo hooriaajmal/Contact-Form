@@ -16,14 +16,14 @@ A modern, responsive, and accessible contact form built with semantic HTML, CSS,
 - Using HTTPS :
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/hooriaajmal/Contact-Form
 cd contact
 ```
 
 - Using SSH:
 
 ```bash
-git clone git@github.com:<your-username>/contact.git
+git clone git@github.com:hooriaajmal/contact.git
 cd contact
 ```
 
